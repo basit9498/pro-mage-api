@@ -1,4 +1,4 @@
-# HHD Backend App
+# ProMega Backend App
 
 ## Table of contents
 
